@@ -1,0 +1,48 @@
+<table>
+                <tr>
+                    <th>#</th>
+                    <th>S.No</th>
+                    <th>Service</th>
+                    <th>Date</th>
+                    <th>Service</th>
+                    <th>Product</th>
+                    <th>Brand</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2101640100102</td>
+                    <td>AX20789012</td>
+                    <td>24-8-2016</td>
+                    <td>New laptop Purchase</td>
+                    <td>laptop</td>
+                    <td>Hp Pavillion</td>
+                </tr>
+                
+                <tr>
+                    <td>2</td>
+                    <td>2101640100102</td>
+                    <td>AX20789012</td>
+                    <td>24-8-2016</td>
+                    <td>New laptop Purchase</td>
+                    <td>laptop</td>
+                    <td>Hp Pavillion</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>2101640100102</td>
+                    <td>AX20789012</td>
+                    <td>24-8-2016</td>
+                    <td>New laptop Purchase</td>
+                    <td>laptop</td>
+                    <td>Hp Pavillion</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>2101640100102</td>
+                    <td>AX20789012</td>
+                    <td>24-8-2016</td>
+                    <td>New laptop Purchase</td>
+                    <td>laptop</td>
+                    <td>Hp Pavillion</td>
+                </tr>
+            </table>
