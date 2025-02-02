@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.rotate{
+    height: 400px;
+    width:400px;
+    background-color: rgb(222, 248, 146);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width:250px;
+    height: 250px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 100px;
+    line-height: 250px;
+    margin: 20px;
+}
+
+.rotate-btn{
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 5%;
+    background-color: rgb(250, 6, 6);
+    color:white;
+    font-size: 1.2em;
+}
