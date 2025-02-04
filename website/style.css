@@ -1,0 +1,22 @@
+.last{
+    margin-top: 0.5rem;
+}
+
+.custom-spacing {
+    margin-left: 5rem; /* Adjust as needed */
+}
+
+.b1{
+    background-color: rgb(255, 231, 165);
+    padding-bottom: 2rem;
+}
+    
+#carouselExampleDark {
+    height: 60vh; 
+}
+
+#carouselExampleDark .carousel-item img {
+    height: 60vh; 
+    object-fit: cover; 
+}
+
